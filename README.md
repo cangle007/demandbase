@@ -1,3 +1,3 @@
 # Demandbase Code Challenge
 
-![Alt text](assets/proofOfwork.png)
+![Alt text](/src/assets/proofOfwork.png)
